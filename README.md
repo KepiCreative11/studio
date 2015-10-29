@@ -1,2 +1,2 @@
 # studio
-Kepi Studio
+Kepi Studio; Where the work happens
